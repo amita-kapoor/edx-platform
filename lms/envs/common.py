@@ -3713,7 +3713,7 @@ REGISTRATION_EXTRA_FIELDS = {
     'mailing_address': 'optional',
     'goals': 'optional',
     'honor_code': 'required',
-    'terms_of_service': 'hidden',
+    'terms_of_service': 'required',
     'city': 'hidden',
     'country': 'hidden',
 }
